@@ -30,4 +30,10 @@ export class AppComponent {
 
   }
 
+  divide():void{
+
+    this.resultado=this.numero1/this.numero2;
+
+  }
+
 }
